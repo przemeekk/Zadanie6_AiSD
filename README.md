@@ -1,2 +1,2 @@
 # Zadanie6_AiSD
-Zadanie6_AISD
+Przemysław Malinowski Zadanie 6 z AiSD
